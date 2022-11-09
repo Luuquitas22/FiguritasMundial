@@ -1,0 +1,17 @@
+package test.FiguritasMundial;
+
+public enum Seleccion {
+ARGENTINA,
+BRASIL,
+ALEMANIA,
+INGLATERRA,
+PORTUGAL,
+CHILE,
+PERU,
+ESPAÑA,
+ITALIA,
+URUGUAY,
+COLOMBIA,
+MEXICO,
+HOLANDA,
+}
